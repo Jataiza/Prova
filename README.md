@@ -1,2 +1,2 @@
 # Prova
-Prova On-line Programação de soluções computacionais
+Prova Programação de soluções computacionais 
